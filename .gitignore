@@ -1,0 +1,4 @@
+.env
+node_modules
+.vercel
+sport-sync-ass-11-firebase-admin-service-key.json
